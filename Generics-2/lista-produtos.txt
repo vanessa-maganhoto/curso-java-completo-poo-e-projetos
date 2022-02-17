@@ -1,0 +1,3 @@
+Computador, 3500
+Iphone, 8500
+Tablet, 4500
